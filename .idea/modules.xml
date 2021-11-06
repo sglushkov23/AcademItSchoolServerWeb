@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AcademItSchoolServerWeb.iml" filepath="$PROJECT_DIR$/.idea/AcademItSchoolServerWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorldServlet/HelloWorldServlet.iml" filepath="$PROJECT_DIR$/HelloWorldServlet/HelloWorldServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneBookServlet/PhoneBookServlet.iml" filepath="$PROJECT_DIR$/PhoneBookServlet/PhoneBookServlet.iml" />
     </modules>
   </component>
 </project>
